@@ -1,0 +1,4181 @@
+%!PS-Adobe-3.0 EPSF-3.0
+%%Creator: EpsGraphics2D 0.8.8 by Paul Mutton, http://www.jibble.org/
+%%Title: Plot
+%%CreationDate: Sat Oct 28 12:56:52 MEST 2017
+%%BoundingBox: 0 0 477 390
+%%DocumentData: Clean7Bit
+%%DocumentProcessColors: Black
+%%ColorUsage: Color
+%%Origin: 0 0
+%%Pages: 1
+%%Page: 1 1
+%%EndComments
+
+gsave
+22.0 368.0 translate
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+gsave
+newpath
+35.424 -5.184 moveto
+374.976 -5.184 lineto
+374.976 -313.632 lineto
+35.424 -313.632 lineto
+35.424 -5.184 lineto
+closepath
+clip
+newpath
+0.0 0.0 0.0 setrgbcolor
+grestore
+gsave
+newpath
+35.424 -5.184 moveto
+374.976 -5.184 lineto
+374.976 -313.632 lineto
+35.424 -313.632 lineto
+35.424 -5.184 lineto
+closepath
+clip
+newpath
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+grestore
+gsave
+newpath
+35.424 -5.184 moveto
+35.424 -313.632 lineto
+374.976 -313.632 lineto
+374.976 -5.184 lineto
+closepath
+clip
+newpath
+0.0 0.0 0.0 setrgbcolor
+1.0 1.0 1.0 setrgbcolor
+newpath
+35.424 -5.184 moveto
+374.976 -5.184 lineto
+374.976 -313.632 lineto
+35.424 -313.632 lineto
+35.424 -5.184 lineto
+closepath
+fill
+newpath
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.9411765 setrgbcolor
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+42.336 -313.632 moveto
+42.336 -192.672 lineto
+50.976 -192.672 lineto
+50.976 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+53.568 -313.632 moveto
+53.568 -11.232 lineto
+61.344 -11.232 lineto
+61.344 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+63.936 -313.632 moveto
+63.936 -283.392 lineto
+72.576 -283.392 lineto
+72.576 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+75.168 -313.632 moveto
+75.168 -192.672 lineto
+82.944 -192.672 lineto
+82.944 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+85.536 -313.632 moveto
+85.536 -222.912 lineto
+94.176 -222.912 lineto
+94.176 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+96.768 -313.632 moveto
+96.768 -222.912 lineto
+105.408 -222.912 lineto
+105.408 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+118.368 -313.632 moveto
+118.368 -283.392 lineto
+127.008 -283.392 lineto
+127.008 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+129.6 -313.632 moveto
+129.6 -253.152 lineto
+137.376 -253.152 lineto
+137.376 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+139.968 -313.632 moveto
+139.968 -253.152 lineto
+148.608 -253.152 lineto
+148.608 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+151.2 -313.632 moveto
+151.2 -283.392 lineto
+159.84 -283.392 lineto
+159.84 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+172.8 -313.632 moveto
+172.8 -283.392 lineto
+181.44 -283.392 lineto
+181.44 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+184.032 -313.632 moveto
+184.032 -283.392 lineto
+191.808 -283.392 lineto
+191.808 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+194.4 -313.632 moveto
+194.4 -283.392 lineto
+203.04 -283.392 lineto
+203.04 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+216.864 -313.632 moveto
+216.864 -253.152 lineto
+224.64 -253.152 lineto
+224.64 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+281.664 -313.632 moveto
+281.664 -283.392 lineto
+290.304 -283.392 lineto
+290.304 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+303.264 -313.632 moveto
+303.264 -283.392 lineto
+311.904 -283.392 lineto
+311.904 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+357.696 -313.632 moveto
+357.696 -283.392 lineto
+366.336 -283.392 lineto
+366.336 -313.632 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.9411765 setrgbcolor
+newpath
+35.424 -313.632 moveto
+35.424 -313.632 lineto
+36.288 -313.632 lineto
+37.152 -312.768 lineto
+38.016 -311.904 lineto
+38.88 -311.04 lineto
+39.744 -310.176 lineto
+40.608 -309.312 lineto
+41.472 -308.448 lineto
+42.336 -308.448 lineto
+43.2 -307.584 lineto
+44.064 -307.584 lineto
+44.928 -306.72 lineto
+45.792 -305.856 lineto
+46.656 -304.992 lineto
+47.52 -304.128 lineto
+48.384 -302.4 lineto
+49.248 -301.536 lineto
+50.112 -300.672 lineto
+50.976 -298.944 lineto
+51.84 -298.08 lineto
+52.704 -296.352 lineto
+53.568 -295.488 lineto
+54.432 -294.624 lineto
+55.296 -294.624 lineto
+56.16 -294.624 lineto
+57.024 -294.624 lineto
+57.888 -294.624 lineto
+58.752 -295.488 lineto
+59.616 -295.488 lineto
+60.48 -295.488 lineto
+61.344 -296.352 lineto
+62.208 -297.216 lineto
+63.072 -298.08 lineto
+63.936 -298.944 lineto
+64.8 -300.672 lineto
+65.664 -301.536 lineto
+66.528 -303.264 lineto
+67.392 -304.128 lineto
+68.256 -304.992 lineto
+69.12 -304.992 lineto
+69.984 -304.992 lineto
+70.848 -305.856 lineto
+71.712 -305.856 lineto
+72.576 -306.72 lineto
+73.44 -306.72 lineto
+74.304 -305.856 lineto
+75.168 -305.856 lineto
+76.032 -305.856 lineto
+76.896 -305.856 lineto
+77.76 -305.856 lineto
+78.624 -305.856 lineto
+79.488 -305.856 lineto
+80.352 -304.992 lineto
+81.216 -304.992 lineto
+82.08 -304.992 lineto
+82.944 -304.992 lineto
+83.808 -304.992 lineto
+84.672 -305.856 lineto
+85.536 -305.856 lineto
+86.4 -306.72 lineto
+87.264 -307.584 lineto
+88.128 -307.584 lineto
+88.992 -307.584 lineto
+89.856 -307.584 lineto
+90.72 -307.584 lineto
+91.584 -306.72 lineto
+92.448 -306.72 lineto
+93.312 -306.72 lineto
+94.176 -306.72 lineto
+95.04 -306.72 lineto
+95.904 -306.72 lineto
+96.768 -307.584 lineto
+97.632 -307.584 lineto
+98.496 -307.584 lineto
+99.36 -307.584 lineto
+100.224 -307.584 lineto
+101.088 -308.448 lineto
+101.952 -308.448 lineto
+102.816 -308.448 lineto
+103.68 -309.312 lineto
+104.544 -309.312 lineto
+105.408 -309.312 lineto
+106.272 -310.176 lineto
+107.136 -310.176 lineto
+108.0 -311.04 lineto
+108.864 -311.04 lineto
+109.728 -311.04 lineto
+110.592 -311.904 lineto
+111.456 -311.904 lineto
+112.32 -312.768 lineto
+113.184 -312.768 lineto
+114.048 -312.768 lineto
+114.912 -313.632 lineto
+115.776 -313.632 lineto
+116.64 -313.632 lineto
+117.504 -312.768 lineto
+118.368 -312.768 lineto
+119.232 -311.904 lineto
+120.096 -311.904 lineto
+120.96 -311.04 lineto
+121.824 -311.04 lineto
+122.688 -310.176 lineto
+123.552 -310.176 lineto
+124.416 -309.312 lineto
+125.28 -309.312 lineto
+126.144 -309.312 lineto
+127.008 -308.448 lineto
+127.872 -308.448 lineto
+128.736 -308.448 lineto
+129.6 -308.448 lineto
+130.464 -308.448 lineto
+131.328 -308.448 lineto
+132.192 -309.312 lineto
+133.056 -309.312 lineto
+133.92 -309.312 lineto
+134.784 -310.176 lineto
+135.648 -310.176 lineto
+136.512 -310.176 lineto
+137.376 -310.176 lineto
+138.24 -310.176 lineto
+139.104 -310.176 lineto
+139.968 -310.176 lineto
+140.832 -310.176 lineto
+141.696 -310.176 lineto
+142.56 -310.176 lineto
+143.424 -310.176 lineto
+144.288 -309.312 lineto
+145.152 -309.312 lineto
+146.016 -309.312 lineto
+146.88 -309.312 lineto
+147.744 -309.312 lineto
+148.608 -309.312 lineto
+149.472 -309.312 lineto
+150.336 -309.312 lineto
+151.2 -309.312 lineto
+152.064 -309.312 lineto
+152.928 -310.176 lineto
+153.792 -310.176 lineto
+154.656 -311.04 lineto
+155.52 -311.04 lineto
+156.384 -311.904 lineto
+157.248 -311.904 lineto
+158.112 -311.904 lineto
+158.976 -311.904 lineto
+159.84 -312.768 lineto
+160.704 -312.768 lineto
+161.568 -312.768 lineto
+162.432 -312.768 lineto
+163.296 -313.632 lineto
+164.16 -313.632 lineto
+165.024 -313.632 lineto
+165.888 -313.632 lineto
+166.752 -313.632 lineto
+167.616 -313.632 lineto
+168.48 -313.632 lineto
+169.344 -312.768 lineto
+170.208 -312.768 lineto
+171.072 -312.768 lineto
+171.936 -312.768 lineto
+172.8 -311.904 lineto
+173.664 -311.904 lineto
+174.528 -311.904 lineto
+175.392 -311.904 lineto
+176.256 -311.904 lineto
+177.12 -311.904 lineto
+177.984 -311.904 lineto
+178.848 -311.904 lineto
+179.712 -311.904 lineto
+180.576 -311.904 lineto
+181.44 -311.04 lineto
+182.304 -311.04 lineto
+183.168 -311.04 lineto
+184.032 -311.04 lineto
+184.896 -311.04 lineto
+185.76 -310.176 lineto
+186.624 -310.176 lineto
+187.488 -310.176 lineto
+188.352 -310.176 lineto
+189.216 -310.176 lineto
+190.08 -310.176 lineto
+190.944 -310.176 lineto
+191.808 -310.176 lineto
+192.672 -310.176 lineto
+193.536 -310.176 lineto
+194.4 -310.176 lineto
+195.264 -310.176 lineto
+196.128 -311.04 lineto
+196.992 -311.04 lineto
+197.856 -311.04 lineto
+198.72 -311.04 lineto
+199.584 -311.904 lineto
+200.448 -311.904 lineto
+201.312 -312.768 lineto
+202.176 -312.768 lineto
+203.04 -312.768 lineto
+203.904 -313.632 lineto
+204.768 -313.632 lineto
+205.632 -313.632 lineto
+206.496 -313.632 lineto
+207.36 -312.768 lineto
+208.224 -312.768 lineto
+209.088 -312.768 lineto
+209.952 -312.768 lineto
+210.816 -311.904 lineto
+211.68 -311.904 lineto
+212.544 -311.04 lineto
+213.408 -311.04 lineto
+214.272 -311.04 lineto
+215.136 -310.176 lineto
+216.0 -310.176 lineto
+216.864 -310.176 lineto
+217.728 -310.176 lineto
+218.592 -310.176 lineto
+219.456 -310.176 lineto
+220.32 -310.176 lineto
+221.184 -310.176 lineto
+222.048 -310.176 lineto
+222.912 -311.04 lineto
+223.776 -311.04 lineto
+224.64 -311.04 lineto
+225.504 -311.904 lineto
+226.368 -311.904 lineto
+227.232 -312.768 lineto
+228.096 -312.768 lineto
+228.96 -312.768 lineto
+229.824 -312.768 lineto
+230.688 -313.632 lineto
+231.552 -313.632 lineto
+232.416 -313.632 lineto
+233.28 -313.632 lineto
+234.144 -313.632 lineto
+235.008 -313.632 lineto
+235.872 -313.632 lineto
+236.736 -313.632 lineto
+237.6 -313.632 lineto
+238.464 -313.632 lineto
+239.328 -313.632 lineto
+240.192 -313.632 lineto
+241.056 -313.632 lineto
+241.92 -313.632 lineto
+242.784 -313.632 lineto
+243.648 -313.632 lineto
+244.512 -313.632 lineto
+245.376 -313.632 lineto
+246.24 -313.632 lineto
+247.104 -313.632 lineto
+247.968 -313.632 lineto
+248.832 -313.632 lineto
+249.696 -313.632 lineto
+250.56 -313.632 lineto
+251.424 -313.632 lineto
+252.288 -313.632 lineto
+253.152 -313.632 lineto
+254.016 -313.632 lineto
+254.88 -313.632 lineto
+255.744 -313.632 lineto
+256.608 -313.632 lineto
+257.472 -313.632 lineto
+258.336 -313.632 lineto
+259.2 -313.632 lineto
+260.064 -313.632 lineto
+260.928 -313.632 lineto
+261.792 -313.632 lineto
+262.656 -313.632 lineto
+263.52 -313.632 lineto
+264.384 -313.632 lineto
+265.248 -313.632 lineto
+266.112 -313.632 lineto
+266.976 -313.632 lineto
+267.84 -313.632 lineto
+268.704 -313.632 lineto
+269.568 -313.632 lineto
+270.432 -313.632 lineto
+271.296 -313.632 lineto
+272.16 -313.632 lineto
+273.024 -313.632 lineto
+273.888 -313.632 lineto
+274.752 -313.632 lineto
+275.616 -313.632 lineto
+276.48 -312.768 lineto
+277.344 -312.768 lineto
+278.208 -312.768 lineto
+279.072 -312.768 lineto
+279.936 -311.904 lineto
+280.8 -311.904 lineto
+281.664 -311.904 lineto
+282.528 -311.904 lineto
+283.392 -311.904 lineto
+284.256 -311.904 lineto
+285.12 -311.904 lineto
+285.984 -311.904 lineto
+286.848 -311.904 lineto
+287.712 -311.904 lineto
+288.576 -311.904 lineto
+289.44 -311.904 lineto
+290.304 -311.904 lineto
+291.168 -312.768 lineto
+292.032 -312.768 lineto
+292.896 -312.768 lineto
+293.76 -312.768 lineto
+294.624 -313.632 lineto
+295.488 -313.632 lineto
+296.352 -313.632 lineto
+297.216 -313.632 lineto
+298.08 -313.632 lineto
+298.944 -313.632 lineto
+299.808 -313.632 lineto
+300.672 -313.632 lineto
+301.536 -313.632 lineto
+302.4 -312.768 lineto
+303.264 -312.768 lineto
+304.128 -312.768 lineto
+304.992 -312.768 lineto
+305.856 -311.904 lineto
+306.72 -311.904 lineto
+307.584 -311.904 lineto
+308.448 -311.904 lineto
+309.312 -311.904 lineto
+310.176 -311.904 lineto
+311.04 -311.904 lineto
+311.904 -311.904 lineto
+312.768 -311.904 lineto
+313.632 -311.904 lineto
+314.496 -311.904 lineto
+315.36 -311.904 lineto
+316.224 -311.904 lineto
+317.088 -312.768 lineto
+317.952 -312.768 lineto
+318.816 -312.768 lineto
+319.68 -312.768 lineto
+320.544 -313.632 lineto
+321.408 -313.632 lineto
+322.272 -313.632 lineto
+323.136 -313.632 lineto
+324.0 -313.632 lineto
+324.864 -313.632 lineto
+325.728 -313.632 lineto
+326.592 -313.632 lineto
+327.456 -313.632 lineto
+328.32 -313.632 lineto
+329.184 -313.632 lineto
+330.048 -313.632 lineto
+330.912 -313.632 lineto
+331.776 -313.632 lineto
+332.64 -313.632 lineto
+333.504 -313.632 lineto
+334.368 -313.632 lineto
+335.232 -313.632 lineto
+336.096 -313.632 lineto
+336.96 -313.632 lineto
+337.824 -313.632 lineto
+338.688 -313.632 lineto
+339.552 -313.632 lineto
+340.416 -313.632 lineto
+341.28 -313.632 lineto
+342.144 -313.632 lineto
+343.008 -313.632 lineto
+343.872 -313.632 lineto
+344.736 -313.632 lineto
+345.6 -313.632 lineto
+346.464 -313.632 lineto
+347.328 -313.632 lineto
+348.192 -313.632 lineto
+349.056 -312.768 lineto
+349.92 -312.768 lineto
+350.784 -312.768 lineto
+351.648 -312.768 lineto
+352.512 -311.904 lineto
+353.376 -311.904 lineto
+354.24 -311.904 lineto
+355.104 -311.904 lineto
+355.968 -311.904 lineto
+356.832 -311.904 lineto
+357.696 -311.904 lineto
+358.56 -311.904 lineto
+359.424 -311.904 lineto
+360.288 -311.904 lineto
+361.152 -311.904 lineto
+362.016 -311.904 lineto
+362.88 -311.904 lineto
+363.744 -312.768 lineto
+364.608 -312.768 lineto
+365.472 -312.768 lineto
+366.336 -312.768 lineto
+367.2 -313.632 lineto
+368.064 -313.632 lineto
+368.928 -313.632 lineto
+369.792 -313.632 lineto
+370.656 -313.632 lineto
+371.52 -313.632 lineto
+372.384 -313.632 lineto
+373.248 -313.632 lineto
+374.112 -313.632 lineto
+374.976 -313.632 lineto
+closepath
+fill
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+1 setlinejoin
+1 setlinecap
+[ ] 0 setdash
+newpath
+35.424 -313.632 moveto
+36.288 -313.632 lineto
+37.152 -312.768 lineto
+38.016 -311.904 lineto
+38.88 -311.04 lineto
+39.744 -310.176 lineto
+40.608 -309.312 lineto
+41.472 -308.448 lineto
+42.336 -308.448 lineto
+43.2 -307.584 lineto
+44.064 -307.584 lineto
+44.928 -306.72 lineto
+45.792 -305.856 lineto
+46.656 -304.992 lineto
+47.52 -304.128 lineto
+48.384 -302.4 lineto
+49.248 -301.536 lineto
+50.112 -300.672 lineto
+50.976 -298.944 lineto
+51.84 -298.08 lineto
+52.704 -296.352 lineto
+53.568 -295.488 lineto
+54.432 -294.624 lineto
+55.296 -294.624 lineto
+56.16 -294.624 lineto
+57.024 -294.624 lineto
+57.888 -294.624 lineto
+58.752 -295.488 lineto
+59.616 -295.488 lineto
+60.48 -295.488 lineto
+61.344 -296.352 lineto
+62.208 -297.216 lineto
+63.072 -298.08 lineto
+63.936 -298.944 lineto
+64.8 -300.672 lineto
+65.664 -301.536 lineto
+66.528 -303.264 lineto
+67.392 -304.128 lineto
+68.256 -304.992 lineto
+69.12 -304.992 lineto
+69.984 -304.992 lineto
+70.848 -305.856 lineto
+71.712 -305.856 lineto
+72.576 -306.72 lineto
+73.44 -306.72 lineto
+74.304 -305.856 lineto
+75.168 -305.856 lineto
+76.032 -305.856 lineto
+76.896 -305.856 lineto
+77.76 -305.856 lineto
+78.624 -305.856 lineto
+79.488 -305.856 lineto
+80.352 -304.992 lineto
+81.216 -304.992 lineto
+82.08 -304.992 lineto
+82.944 -304.992 lineto
+83.808 -304.992 lineto
+84.672 -305.856 lineto
+85.536 -305.856 lineto
+86.4 -306.72 lineto
+87.264 -307.584 lineto
+88.128 -307.584 lineto
+88.992 -307.584 lineto
+89.856 -307.584 lineto
+90.72 -307.584 lineto
+91.584 -306.72 lineto
+92.448 -306.72 lineto
+93.312 -306.72 lineto
+94.176 -306.72 lineto
+95.04 -306.72 lineto
+95.904 -306.72 lineto
+96.768 -307.584 lineto
+97.632 -307.584 lineto
+98.496 -307.584 lineto
+99.36 -307.584 lineto
+100.224 -307.584 lineto
+101.088 -308.448 lineto
+101.952 -308.448 lineto
+102.816 -308.448 lineto
+103.68 -309.312 lineto
+104.544 -309.312 lineto
+105.408 -309.312 lineto
+106.272 -310.176 lineto
+107.136 -310.176 lineto
+108.0 -311.04 lineto
+108.864 -311.04 lineto
+109.728 -311.04 lineto
+110.592 -311.904 lineto
+111.456 -311.904 lineto
+112.32 -312.768 lineto
+113.184 -312.768 lineto
+114.048 -312.768 lineto
+114.912 -313.632 lineto
+115.776 -313.632 lineto
+116.64 -313.632 lineto
+117.504 -312.768 lineto
+118.368 -312.768 lineto
+119.232 -311.904 lineto
+120.096 -311.904 lineto
+120.96 -311.04 lineto
+121.824 -311.04 lineto
+122.688 -310.176 lineto
+123.552 -310.176 lineto
+124.416 -309.312 lineto
+125.28 -309.312 lineto
+126.144 -309.312 lineto
+127.008 -308.448 lineto
+127.872 -308.448 lineto
+128.736 -308.448 lineto
+129.6 -308.448 lineto
+130.464 -308.448 lineto
+131.328 -308.448 lineto
+132.192 -309.312 lineto
+133.056 -309.312 lineto
+133.92 -309.312 lineto
+134.784 -310.176 lineto
+135.648 -310.176 lineto
+136.512 -310.176 lineto
+137.376 -310.176 lineto
+138.24 -310.176 lineto
+139.104 -310.176 lineto
+139.968 -310.176 lineto
+140.832 -310.176 lineto
+141.696 -310.176 lineto
+142.56 -310.176 lineto
+143.424 -310.176 lineto
+144.288 -309.312 lineto
+145.152 -309.312 lineto
+146.016 -309.312 lineto
+146.88 -309.312 lineto
+147.744 -309.312 lineto
+148.608 -309.312 lineto
+149.472 -309.312 lineto
+150.336 -309.312 lineto
+151.2 -309.312 lineto
+152.064 -309.312 lineto
+152.928 -310.176 lineto
+153.792 -310.176 lineto
+154.656 -311.04 lineto
+155.52 -311.04 lineto
+156.384 -311.904 lineto
+157.248 -311.904 lineto
+158.112 -311.904 lineto
+158.976 -311.904 lineto
+159.84 -312.768 lineto
+160.704 -312.768 lineto
+161.568 -312.768 lineto
+162.432 -312.768 lineto
+163.296 -313.632 lineto
+164.16 -313.632 lineto
+165.024 -313.632 lineto
+165.888 -313.632 lineto
+166.752 -313.632 lineto
+167.616 -313.632 lineto
+168.48 -313.632 lineto
+169.344 -312.768 lineto
+170.208 -312.768 lineto
+171.072 -312.768 lineto
+171.936 -312.768 lineto
+172.8 -311.904 lineto
+173.664 -311.904 lineto
+174.528 -311.904 lineto
+175.392 -311.904 lineto
+176.256 -311.904 lineto
+177.12 -311.904 lineto
+177.984 -311.904 lineto
+178.848 -311.904 lineto
+179.712 -311.904 lineto
+180.576 -311.904 lineto
+181.44 -311.04 lineto
+182.304 -311.04 lineto
+183.168 -311.04 lineto
+184.032 -311.04 lineto
+184.896 -311.04 lineto
+185.76 -310.176 lineto
+186.624 -310.176 lineto
+187.488 -310.176 lineto
+188.352 -310.176 lineto
+189.216 -310.176 lineto
+190.08 -310.176 lineto
+190.944 -310.176 lineto
+191.808 -310.176 lineto
+192.672 -310.176 lineto
+193.536 -310.176 lineto
+194.4 -310.176 lineto
+195.264 -310.176 lineto
+196.128 -311.04 lineto
+196.992 -311.04 lineto
+197.856 -311.04 lineto
+198.72 -311.04 lineto
+199.584 -311.904 lineto
+200.448 -311.904 lineto
+201.312 -312.768 lineto
+202.176 -312.768 lineto
+203.04 -312.768 lineto
+203.904 -313.632 lineto
+204.768 -313.632 lineto
+205.632 -313.632 lineto
+206.496 -313.632 lineto
+207.36 -312.768 lineto
+208.224 -312.768 lineto
+209.088 -312.768 lineto
+209.952 -312.768 lineto
+210.816 -311.904 lineto
+211.68 -311.904 lineto
+212.544 -311.04 lineto
+213.408 -311.04 lineto
+214.272 -311.04 lineto
+215.136 -310.176 lineto
+216.0 -310.176 lineto
+216.864 -310.176 lineto
+217.728 -310.176 lineto
+218.592 -310.176 lineto
+219.456 -310.176 lineto
+220.32 -310.176 lineto
+221.184 -310.176 lineto
+222.048 -310.176 lineto
+222.912 -311.04 lineto
+223.776 -311.04 lineto
+224.64 -311.04 lineto
+225.504 -311.904 lineto
+226.368 -311.904 lineto
+227.232 -312.768 lineto
+228.096 -312.768 lineto
+228.96 -312.768 lineto
+229.824 -312.768 lineto
+230.688 -313.632 lineto
+231.552 -313.632 lineto
+232.416 -313.632 lineto
+233.28 -313.632 lineto
+234.144 -313.632 lineto
+235.008 -313.632 lineto
+235.872 -313.632 lineto
+236.736 -313.632 lineto
+237.6 -313.632 lineto
+238.464 -313.632 lineto
+239.328 -313.632 lineto
+240.192 -313.632 lineto
+241.056 -313.632 lineto
+241.92 -313.632 lineto
+242.784 -313.632 lineto
+243.648 -313.632 lineto
+244.512 -313.632 lineto
+245.376 -313.632 lineto
+246.24 -313.632 lineto
+247.104 -313.632 lineto
+247.968 -313.632 lineto
+248.832 -313.632 lineto
+249.696 -313.632 lineto
+250.56 -313.632 lineto
+251.424 -313.632 lineto
+252.288 -313.632 lineto
+253.152 -313.632 lineto
+254.016 -313.632 lineto
+254.88 -313.632 lineto
+255.744 -313.632 lineto
+256.608 -313.632 lineto
+257.472 -313.632 lineto
+258.336 -313.632 lineto
+259.2 -313.632 lineto
+260.064 -313.632 lineto
+260.928 -313.632 lineto
+261.792 -313.632 lineto
+262.656 -313.632 lineto
+263.52 -313.632 lineto
+264.384 -313.632 lineto
+265.248 -313.632 lineto
+266.112 -313.632 lineto
+266.976 -313.632 lineto
+267.84 -313.632 lineto
+268.704 -313.632 lineto
+269.568 -313.632 lineto
+270.432 -313.632 lineto
+271.296 -313.632 lineto
+272.16 -313.632 lineto
+273.024 -313.632 lineto
+273.888 -313.632 lineto
+274.752 -313.632 lineto
+275.616 -313.632 lineto
+276.48 -312.768 lineto
+277.344 -312.768 lineto
+278.208 -312.768 lineto
+279.072 -312.768 lineto
+279.936 -311.904 lineto
+280.8 -311.904 lineto
+281.664 -311.904 lineto
+282.528 -311.904 lineto
+283.392 -311.904 lineto
+284.256 -311.904 lineto
+285.12 -311.904 lineto
+285.984 -311.904 lineto
+286.848 -311.904 lineto
+287.712 -311.904 lineto
+288.576 -311.904 lineto
+289.44 -311.904 lineto
+290.304 -311.904 lineto
+291.168 -312.768 lineto
+292.032 -312.768 lineto
+292.896 -312.768 lineto
+293.76 -312.768 lineto
+294.624 -313.632 lineto
+295.488 -313.632 lineto
+296.352 -313.632 lineto
+297.216 -313.632 lineto
+298.08 -313.632 lineto
+298.944 -313.632 lineto
+299.808 -313.632 lineto
+300.672 -313.632 lineto
+301.536 -313.632 lineto
+302.4 -312.768 lineto
+303.264 -312.768 lineto
+304.128 -312.768 lineto
+304.992 -312.768 lineto
+305.856 -311.904 lineto
+306.72 -311.904 lineto
+307.584 -311.904 lineto
+308.448 -311.904 lineto
+309.312 -311.904 lineto
+310.176 -311.904 lineto
+311.04 -311.904 lineto
+311.904 -311.904 lineto
+312.768 -311.904 lineto
+313.632 -311.904 lineto
+314.496 -311.904 lineto
+315.36 -311.904 lineto
+316.224 -311.904 lineto
+317.088 -312.768 lineto
+317.952 -312.768 lineto
+318.816 -312.768 lineto
+319.68 -312.768 lineto
+320.544 -313.632 lineto
+321.408 -313.632 lineto
+322.272 -313.632 lineto
+323.136 -313.632 lineto
+324.0 -313.632 lineto
+324.864 -313.632 lineto
+325.728 -313.632 lineto
+326.592 -313.632 lineto
+327.456 -313.632 lineto
+328.32 -313.632 lineto
+329.184 -313.632 lineto
+330.048 -313.632 lineto
+330.912 -313.632 lineto
+331.776 -313.632 lineto
+332.64 -313.632 lineto
+333.504 -313.632 lineto
+334.368 -313.632 lineto
+335.232 -313.632 lineto
+336.096 -313.632 lineto
+336.96 -313.632 lineto
+337.824 -313.632 lineto
+338.688 -313.632 lineto
+339.552 -313.632 lineto
+340.416 -313.632 lineto
+341.28 -313.632 lineto
+342.144 -313.632 lineto
+343.008 -313.632 lineto
+343.872 -313.632 lineto
+344.736 -313.632 lineto
+345.6 -313.632 lineto
+346.464 -313.632 lineto
+347.328 -313.632 lineto
+348.192 -313.632 lineto
+349.056 -312.768 lineto
+349.92 -312.768 lineto
+350.784 -312.768 lineto
+351.648 -312.768 lineto
+352.512 -311.904 lineto
+353.376 -311.904 lineto
+354.24 -311.904 lineto
+355.104 -311.904 lineto
+355.968 -311.904 lineto
+356.832 -311.904 lineto
+357.696 -311.904 lineto
+358.56 -311.904 lineto
+359.424 -311.904 lineto
+360.288 -311.904 lineto
+361.152 -311.904 lineto
+362.016 -311.904 lineto
+362.88 -311.904 lineto
+363.744 -312.768 lineto
+364.608 -312.768 lineto
+365.472 -312.768 lineto
+366.336 -312.768 lineto
+367.2 -313.632 lineto
+368.064 -313.632 lineto
+368.928 -313.632 lineto
+369.792 -313.632 lineto
+370.656 -313.632 lineto
+371.52 -313.632 lineto
+372.384 -313.632 lineto
+373.248 -313.632 lineto
+374.112 -313.632 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.0 setrgbcolor
+grestore
+gsave
+newpath
+35.424 -5.184 moveto
+374.976 -5.184 lineto
+374.976 -313.632 lineto
+35.424 -313.632 lineto
+35.424 -5.184 lineto
+closepath
+clip
+newpath
+0.0 0.0 0.0 setrgbcolor
+grestore
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+74.304 -315.36 moveto
+74.304 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+68.6745 -326.592 moveto
+70.3485 -326.592 lineto
+70.3485 -320.8275 lineto
+68.526 -321.192 lineto
+68.526 -320.2605 lineto
+70.335 -319.896 lineto
+71.361 -319.896 lineto
+71.361 -326.592 lineto
+73.035 -326.592 lineto
+73.035 -327.456 lineto
+68.6745 -327.456 lineto
+68.6745 -326.592 lineto
+closepath
+77.28244 -320.571 moveto
+76.76044 -320.571 76.366684 -320.82977 76.10119 -321.34726 curveto
+75.835686 -321.86475 75.702934 -322.6455 75.702934 -323.6895 curveto
+75.702934 -324.72452 75.835686 -325.50076 76.10119 -326.01825 curveto
+76.366684 -326.53574 76.76044 -326.7945 77.28244 -326.7945 curveto
+77.81344 -326.7945 78.211685 -326.53574 78.47719 -326.01825 curveto
+78.74268 -325.50076 78.875435 -324.72452 78.875435 -323.6895 curveto
+78.875435 -322.6455 78.74268 -321.86475 78.47719 -321.34726 curveto
+78.211685 -320.82977 77.81344 -320.571 77.28244 -320.571 curveto
+closepath
+77.28244 -319.761 moveto
+78.12844 -319.761 78.776436 -320.09625 79.22644 -320.76675 curveto
+79.67644 -321.43726 79.901436 -322.4115 79.901436 -323.6895 curveto
+79.901436 -324.9585 79.67644 -325.92825 79.22644 -326.59875 curveto
+78.776436 -327.26926 78.12844 -327.6045 77.28244 -327.6045 curveto
+76.43644 -327.6045 75.79069 -327.26926 75.345184 -326.59875 curveto
+74.89969 -325.92825 74.67694 -324.9585 74.67694 -323.6895 curveto
+74.67694 -322.4115 74.89969 -321.43726 75.345184 -320.76675 curveto
+75.79069 -320.09625 76.43644 -319.761 77.28244 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+128.736 -315.36 moveto
+128.736 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+123.8085 -326.592 moveto
+127.386 -326.592 lineto
+127.386 -327.456 lineto
+122.58 -327.456 lineto
+122.58 -326.592 lineto
+122.967 -326.19598 123.49575 -325.65823 124.16625 -324.97876 curveto
+124.83675 -324.29926 125.2575 -323.8605 125.4285 -323.6625 curveto
+125.7615 -323.3025 125.99325 -322.99426 126.12375 -322.73776 curveto
+126.25425 -322.48126 126.3195 -322.2315 126.3195 -321.9885 curveto
+126.3195 -321.5835 126.17775 -321.255 125.89425 -321.003 curveto
+125.61075 -320.751 125.244 -320.625 124.794 -320.625 curveto
+124.47 -320.625 124.13025 -320.679 123.77475 -320.787 curveto
+123.41925 -320.895 123.039 -321.066 122.634 -321.3 curveto
+122.634 -320.2605 lineto
+123.048 -320.09848 123.43275 -319.97473 123.78825 -319.88925 curveto
+124.14375 -319.80374 124.47 -319.761 124.767 -319.761 curveto
+125.549995 -319.761 126.1755 -319.95673 126.6435 -320.34824 curveto
+127.111496 -320.73975 127.3455 -321.26398 127.3455 -321.921 curveto
+127.3455 -322.227 127.286995 -322.5195 127.17 -322.7985 curveto
+127.053 -323.0775 126.8415 -323.406 126.5355 -323.784 curveto
+126.445496 -323.883 126.1755 -324.1665 125.7255 -324.6345 curveto
+125.2755 -325.10248 124.6365 -325.755 123.8085 -326.592 curveto
+closepath
+131.71443 -320.571 moveto
+131.19244 -320.571 130.79869 -320.82977 130.53319 -321.34726 curveto
+130.26768 -321.86475 130.13493 -322.6455 130.13493 -323.6895 curveto
+130.13493 -324.72452 130.26768 -325.50076 130.53319 -326.01825 curveto
+130.79869 -326.53574 131.19244 -326.7945 131.71443 -326.7945 curveto
+132.24544 -326.7945 132.64369 -326.53574 132.9092 -326.01825 curveto
+133.17468 -325.50076 133.30743 -324.72452 133.30743 -323.6895 curveto
+133.30743 -322.6455 133.17468 -321.86475 132.9092 -321.34726 curveto
+132.64369 -320.82977 132.24544 -320.571 131.71443 -320.571 curveto
+closepath
+131.71443 -319.761 moveto
+132.56044 -319.761 133.20844 -320.09625 133.65843 -320.76675 curveto
+134.10843 -321.43726 134.33344 -322.4115 134.33344 -323.6895 curveto
+134.33344 -324.9585 134.10843 -325.92825 133.65843 -326.59875 curveto
+133.20844 -327.26926 132.56044 -327.6045 131.71443 -327.6045 curveto
+130.86844 -327.6045 130.22269 -327.26926 129.77719 -326.59875 curveto
+129.33168 -325.92825 129.10893 -324.9585 129.10893 -323.6895 curveto
+129.10893 -322.4115 129.33168 -321.43726 129.77719 -320.76675 curveto
+130.22269 -320.09625 130.86844 -319.761 131.71443 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+183.168 -315.36 moveto
+183.168 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+180.468 -323.379 moveto
+180.95401 -323.487 181.33426 -323.70523 181.60875 -324.03375 curveto
+181.88324 -324.36224 182.0205 -324.7695 182.0205 -325.2555 curveto
+182.0205 -326.0025 181.76399 -326.58075 181.251 -326.99026 curveto
+180.738 -327.39975 180.009 -327.6045 179.064 -327.6045 curveto
+178.74901 -327.6045 178.42276 -327.573 178.08525 -327.51 curveto
+177.74774 -327.447 177.4035 -327.3525 177.0525 -327.2265 curveto
+177.0525 -326.241 lineto
+177.3315 -326.403 177.63974 -326.52676 177.97725 -326.61224 curveto
+178.31476 -326.69775 178.668 -326.7405 179.037 -326.7405 curveto
+179.676 -326.7405 180.16425 -326.6145 180.50175 -326.3625 curveto
+180.83925 -326.1105 181.008 -325.7415 181.008 -325.2555 curveto
+181.008 -324.81448 180.8505 -324.468 180.5355 -324.216 curveto
+180.2205 -323.96402 179.7885 -323.838 179.2395 -323.838 curveto
+178.3485 -323.838 lineto
+178.3485 -323.001 lineto
+179.28 -323.001 lineto
+179.77501 -323.001 180.1575 -322.89975 180.4275 -322.69724 curveto
+180.69751 -322.49475 180.8325 -322.2045 180.8325 -321.8265 curveto
+180.8325 -321.4395 180.69525 -321.1425 180.42075 -320.9355 curveto
+180.14626 -320.7285 179.7525 -320.625 179.2395 -320.625 curveto
+178.95149 -320.625 178.64775 -320.65424 178.32825 -320.71274 curveto
+178.00874 -320.77124 177.6555 -320.8635 177.2685 -320.9895 curveto
+177.2685 -320.085 lineto
+177.6645 -319.977 178.03125 -319.896 178.36874 -319.842 curveto
+178.70625 -319.788 179.0235 -319.761 179.3205 -319.761 curveto
+180.1035 -319.761 180.72 -319.9365 181.17 -320.2875 curveto
+181.62 -320.6385 181.845 -321.1155 181.845 -321.7185 curveto
+181.845 -322.1415 181.72575 -322.497 181.48724 -322.785 curveto
+181.24875 -323.073 180.909 -323.271 180.468 -323.379 curveto
+closepath
+186.14644 -320.571 moveto
+185.62444 -320.571 185.23068 -320.82977 184.9652 -321.34726 curveto
+184.69969 -321.86475 184.56694 -322.6455 184.56694 -323.6895 curveto
+184.56694 -324.72452 184.69969 -325.50076 184.9652 -326.01825 curveto
+185.23068 -326.53574 185.62444 -326.7945 186.14644 -326.7945 curveto
+186.67743 -326.7945 187.07568 -326.53574 187.34119 -326.01825 curveto
+187.60669 -325.50076 187.73944 -324.72452 187.73944 -323.6895 curveto
+187.73944 -322.6455 187.60669 -321.86475 187.34119 -321.34726 curveto
+187.07568 -320.82977 186.67743 -320.571 186.14644 -320.571 curveto
+closepath
+186.14644 -319.761 moveto
+186.99243 -319.761 187.64044 -320.09625 188.09044 -320.76675 curveto
+188.54044 -321.43726 188.76544 -322.4115 188.76544 -323.6895 curveto
+188.76544 -324.9585 188.54044 -325.92825 188.09044 -326.59875 curveto
+187.64044 -327.26926 186.99243 -327.6045 186.14644 -327.6045 curveto
+185.30045 -327.6045 184.6547 -327.26926 184.20918 -326.59875 curveto
+183.76369 -325.92825 183.54094 -324.9585 183.54094 -323.6895 curveto
+183.54094 -322.4115 183.76369 -321.43726 184.20918 -320.76675 curveto
+184.6547 -320.09625 185.30045 -319.761 186.14644 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+237.6 -315.36 moveto
+237.6 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+234.603 -320.787 moveto
+232.0245 -324.8235 lineto
+234.603 -324.8235 lineto
+234.603 -320.787 lineto
+closepath
+234.333 -319.896 moveto
+235.629 -319.896 lineto
+235.629 -324.8235 lineto
+236.709 -324.8235 lineto
+236.709 -325.674 lineto
+235.629 -325.674 lineto
+235.629 -327.456 lineto
+234.603 -327.456 lineto
+234.603 -325.674 lineto
+231.201 -325.674 lineto
+231.201 -324.6885 lineto
+234.333 -319.896 lineto
+closepath
+240.57843 -320.571 moveto
+240.05644 -320.571 239.66269 -320.82977 239.39719 -321.34726 curveto
+239.13168 -321.86475 238.99893 -322.6455 238.99893 -323.6895 curveto
+238.99893 -324.72452 239.13168 -325.50076 239.39719 -326.01825 curveto
+239.66269 -326.53574 240.05644 -326.7945 240.57843 -326.7945 curveto
+241.10944 -326.7945 241.50769 -326.53574 241.7732 -326.01825 curveto
+242.03868 -325.50076 242.17143 -324.72452 242.17143 -323.6895 curveto
+242.17143 -322.6455 242.03868 -321.86475 241.7732 -321.34726 curveto
+241.50769 -320.82977 241.10944 -320.571 240.57843 -320.571 curveto
+closepath
+240.57843 -319.761 moveto
+241.42444 -319.761 242.07243 -320.09625 242.52243 -320.76675 curveto
+242.97243 -321.43726 243.19743 -322.4115 243.19743 -323.6895 curveto
+243.19743 -324.9585 242.97243 -325.92825 242.52243 -326.59875 curveto
+242.07243 -327.26926 241.42444 -327.6045 240.57843 -327.6045 curveto
+239.73244 -327.6045 239.08669 -327.26926 238.64119 -326.59875 curveto
+238.19568 -325.92825 237.97293 -324.9585 237.97293 -323.6895 curveto
+237.97293 -322.4115 238.19568 -321.43726 238.64119 -320.76675 curveto
+239.08669 -320.09625 239.73244 -319.761 240.57843 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+292.032 -315.36 moveto
+292.032 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+286.2405 -319.896 moveto
+290.25 -319.896 lineto
+290.25 -320.76 lineto
+287.172 -320.76 lineto
+287.172 -322.6095 lineto
+287.32498 -322.5555 287.47574 -322.51724 287.62424 -322.49475 curveto
+287.77274 -322.47226 287.91898 -322.461 288.063 -322.461 curveto
+288.909 -322.461 289.5795 -322.69275 290.0745 -323.15625 curveto
+290.5695 -323.61975 290.817 -324.243 290.817 -325.026 curveto
+290.817 -325.845 290.56274 -326.4795 290.05426 -326.9295 curveto
+289.54575 -327.3795 288.8325 -327.6045 287.9145 -327.6045 curveto
+287.59048 -327.6045 287.26425 -327.57748 286.93576 -327.5235 curveto
+286.60724 -327.4695 286.2675 -327.3885 285.9165 -327.2805 curveto
+285.9165 -326.2545 lineto
+286.2225 -326.4165 286.5375 -326.538 286.8615 -326.619 curveto
+287.18552 -326.7 287.5275 -326.7405 287.8875 -326.7405 curveto
+288.4725 -326.7405 288.936 -326.5875 289.278 -326.2815 curveto
+289.62 -325.9755 289.791 -325.557 289.791 -325.026 curveto
+289.791 -324.504 289.62 -324.09 289.278 -323.784 curveto
+288.936 -323.478 288.4725 -323.325 287.8875 -323.325 curveto
+287.61752 -323.325 287.34525 -323.35425 287.07074 -323.41275 curveto
+286.79623 -323.47125 286.5195 -323.5635 286.2405 -323.6895 curveto
+286.2405 -319.896 lineto
+closepath
+295.01044 -320.571 moveto
+294.48843 -320.571 294.0947 -320.82977 293.8292 -321.34726 curveto
+293.5637 -321.86475 293.43094 -322.6455 293.43094 -323.6895 curveto
+293.43094 -324.72452 293.5637 -325.50076 293.8292 -326.01825 curveto
+294.0947 -326.53574 294.48843 -326.7945 295.01044 -326.7945 curveto
+295.54144 -326.7945 295.9397 -326.53574 296.2052 -326.01825 curveto
+296.47067 -325.50076 296.60342 -324.72452 296.60342 -323.6895 curveto
+296.60342 -322.6455 296.47067 -321.86475 296.2052 -321.34726 curveto
+295.9397 -320.82977 295.54144 -320.571 295.01044 -320.571 curveto
+closepath
+295.01044 -319.761 moveto
+295.85645 -319.761 296.50446 -320.09625 296.95444 -320.76675 curveto
+297.40442 -321.43726 297.62943 -322.4115 297.62943 -323.6895 curveto
+297.62943 -324.9585 297.40442 -325.92825 296.95444 -326.59875 curveto
+296.50446 -327.26926 295.85645 -327.6045 295.01044 -327.6045 curveto
+294.16443 -327.6045 293.51868 -327.26926 293.07318 -326.59875 curveto
+292.6277 -325.92825 292.40494 -324.9585 292.40494 -323.6895 curveto
+292.40494 -322.4115 292.6277 -321.43726 293.07318 -320.76675 curveto
+293.51868 -320.09625 294.16443 -319.761 295.01044 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+346.464 -315.36 moveto
+346.464 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+342.981 -323.271 moveto
+342.522 -323.271 342.1575 -323.4285 341.8875 -323.7435 curveto
+341.61752 -324.0585 341.4825 -324.486 341.4825 -325.026 curveto
+341.4825 -325.57498 341.61752 -326.007 341.8875 -326.322 curveto
+342.1575 -326.637 342.522 -326.7945 342.981 -326.7945 curveto
+343.44 -326.7945 343.80225 -326.637 344.06775 -326.322 curveto
+344.33325 -326.007 344.466 -325.57498 344.466 -325.026 curveto
+344.466 -324.486 344.33325 -324.0585 344.06775 -323.7435 curveto
+343.80225 -323.4285 343.44 -323.271 342.981 -323.271 curveto
+closepath
+345.006 -320.058 moveto
+345.006 -320.9895 lineto
+344.745 -320.8725 344.484 -320.7825 344.223 -320.7195 curveto
+343.962 -320.6565 343.7055 -320.625 343.4535 -320.625 curveto
+342.7785 -320.625 342.26324 -320.85226 341.90775 -321.30676 curveto
+341.55225 -321.76126 341.3475 -322.4475 341.2935 -323.3655 curveto
+341.49152 -323.0775 341.74127 -322.85474 342.04276 -322.69724 curveto
+342.34424 -322.53973 342.675 -322.461 343.035 -322.461 curveto
+343.79102 -322.461 344.3895 -322.6905 344.8305 -323.1495 curveto
+345.2715 -323.60852 345.492 -324.234 345.492 -325.026 curveto
+345.492 -325.809 345.2625 -326.4345 344.8035 -326.9025 curveto
+344.34448 -327.37048 343.737 -327.6045 342.981 -327.6045 curveto
+342.099 -327.6045 341.4285 -327.26926 340.9695 -326.59875 curveto
+340.5105 -325.92825 340.281 -324.9585 340.281 -323.6895 curveto
+340.281 -322.49252 340.5645 -321.5385 341.1315 -320.8275 curveto
+341.6985 -320.1165 342.45898 -319.761 343.413 -319.761 curveto
+343.66498 -319.761 343.92148 -319.78574 344.1825 -319.83524 curveto
+344.4435 -319.88474 344.71802 -319.95898 345.006 -320.058 curveto
+closepath
+349.44244 -320.571 moveto
+348.92044 -320.571 348.52667 -320.82977 348.2612 -321.34726 curveto
+347.9957 -321.86475 347.86295 -322.6455 347.86295 -323.6895 curveto
+347.86295 -324.72452 347.9957 -325.50076 348.2612 -326.01825 curveto
+348.52667 -326.53574 348.92044 -326.7945 349.44244 -326.7945 curveto
+349.97345 -326.7945 350.3717 -326.53574 350.63718 -326.01825 curveto
+350.90268 -325.50076 351.03543 -324.72452 351.03543 -323.6895 curveto
+351.03543 -322.6455 350.90268 -321.86475 350.63718 -321.34726 curveto
+350.3717 -320.82977 349.97345 -320.571 349.44244 -320.571 curveto
+closepath
+349.44244 -319.761 moveto
+350.28842 -319.761 350.93643 -320.09625 351.38644 -320.76675 curveto
+351.83643 -321.43726 352.06143 -322.4115 352.06143 -323.6895 curveto
+352.06143 -324.9585 351.83643 -325.92825 351.38644 -326.59875 curveto
+350.93643 -327.26926 350.28842 -327.6045 349.44244 -327.6045 curveto
+348.59644 -327.6045 347.95068 -327.26926 347.5052 -326.59875 curveto
+347.0597 -325.92825 346.83694 -324.9585 346.83694 -323.6895 curveto
+346.83694 -322.4115 347.0597 -321.43726 347.5052 -320.76675 curveto
+347.95068 -320.09625 348.59644 -319.761 349.44244 -319.761 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+36.288 -313.632 moveto
+36.288 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+41.472 -313.632 moveto
+41.472 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+46.656 -313.632 moveto
+46.656 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+52.704 -313.632 moveto
+52.704 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+57.888 -313.632 moveto
+57.888 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+63.072 -313.632 moveto
+63.072 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+69.12 -313.632 moveto
+69.12 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+79.488 -313.632 moveto
+79.488 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+84.672 -313.632 moveto
+84.672 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+90.72 -313.632 moveto
+90.72 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+95.904 -313.632 moveto
+95.904 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+101.088 -313.632 moveto
+101.088 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+107.136 -313.632 moveto
+107.136 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+112.32 -313.632 moveto
+112.32 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+117.504 -313.632 moveto
+117.504 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+123.552 -313.632 moveto
+123.552 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+133.92 -313.632 moveto
+133.92 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+139.104 -313.632 moveto
+139.104 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+145.152 -313.632 moveto
+145.152 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+150.336 -313.632 moveto
+150.336 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+155.52 -313.632 moveto
+155.52 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+161.568 -313.632 moveto
+161.568 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+166.752 -313.632 moveto
+166.752 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+171.936 -313.632 moveto
+171.936 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+177.984 -313.632 moveto
+177.984 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+188.352 -313.632 moveto
+188.352 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+193.536 -313.632 moveto
+193.536 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+199.584 -313.632 moveto
+199.584 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+204.768 -313.632 moveto
+204.768 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+209.952 -313.632 moveto
+209.952 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+216.0 -313.632 moveto
+216.0 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+221.184 -313.632 moveto
+221.184 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+226.368 -313.632 moveto
+226.368 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+231.552 -313.632 moveto
+231.552 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+242.784 -313.632 moveto
+242.784 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+247.968 -313.632 moveto
+247.968 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+254.016 -313.632 moveto
+254.016 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+259.2 -313.632 moveto
+259.2 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+264.384 -313.632 moveto
+264.384 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+270.432 -313.632 moveto
+270.432 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+275.616 -313.632 moveto
+275.616 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+280.8 -313.632 moveto
+280.8 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+285.984 -313.632 moveto
+285.984 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+297.216 -313.632 moveto
+297.216 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+302.4 -313.632 moveto
+302.4 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+308.448 -313.632 moveto
+308.448 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+313.632 -313.632 moveto
+313.632 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+318.816 -313.632 moveto
+318.816 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+324.864 -313.632 moveto
+324.864 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+330.048 -313.632 moveto
+330.048 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+335.232 -313.632 moveto
+335.232 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+340.416 -313.632 moveto
+340.416 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+351.648 -313.632 moveto
+351.648 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+356.832 -313.632 moveto
+356.832 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+362.88 -313.632 moveto
+362.88 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+368.064 -313.632 moveto
+368.064 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+373.248 -313.632 moveto
+373.248 -311.904 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+194.5485 -336.312 moveto
+196.074 -336.312 lineto
+198.0045 -341.4555 lineto
+199.9485 -336.312 lineto
+201.474 -336.312 lineto
+201.474 -343.872 lineto
+200.475 -343.872 lineto
+200.475 -337.23 lineto
+198.5175 -342.414 lineto
+197.4915 -342.414 lineto
+195.5475 -337.23 lineto
+195.5475 -343.872 lineto
+194.5485 -343.872 lineto
+194.5485 -336.312 lineto
+closepath
+204.51994 -340.2675 moveto
+204.51994 -343.035 lineto
+206.16693 -343.035 lineto
+206.71593 -343.035 207.12318 -342.92026 207.38869 -342.69073 curveto
+207.65419 -342.46124 207.78694 -342.1125 207.78694 -341.6445 curveto
+207.78694 -341.16748 207.65419 -340.81873 207.38869 -340.59824 curveto
+207.12318 -340.37775 206.71593 -340.2675 206.16693 -340.2675 curveto
+204.51994 -340.2675 lineto
+closepath
+204.51994 -337.149 moveto
+204.51994 -339.4305 lineto
+206.03194 -339.4305 lineto
+206.53593 -339.4305 206.90944 -339.336 207.15244 -339.147 curveto
+207.39543 -338.958 207.51694 -338.6745 207.51694 -338.2965 curveto
+207.51694 -337.90952 207.39543 -337.6215 207.15244 -337.4325 curveto
+206.90944 -337.2435 206.53593 -337.149 206.03194 -337.149 curveto
+204.51994 -337.149 lineto
+closepath
+203.49394 -336.312 moveto
+206.11293 -336.312 lineto
+206.89594 -336.312 207.49669 -336.474 207.91519 -336.798 curveto
+208.3337 -337.122 208.54294 -337.581 208.54294 -338.175 curveto
+208.54294 -338.643 208.43494 -339.01425 208.21893 -339.28876 curveto
+208.00294 -339.56326 207.68794 -339.732 207.27394 -339.795 curveto
+207.77794 -339.903 208.16943 -340.128 208.44844 -340.47 curveto
+208.72745 -340.812 208.86694 -341.2395 208.86694 -341.7525 curveto
+208.86694 -342.42752 208.63744 -342.94952 208.17844 -343.3185 curveto
+207.71944 -343.6875 207.06244 -343.872 206.20744 -343.872 curveto
+203.49394 -343.872 lineto
+203.49394 -336.312 lineto
+closepath
+210.60675 -336.312 moveto
+211.63275 -336.312 lineto
+211.63275 -339.417 lineto
+215.34525 -339.417 lineto
+215.34525 -336.312 lineto
+216.37125 -336.312 lineto
+216.37125 -343.872 lineto
+215.34525 -343.872 lineto
+215.34525 -340.2675 lineto
+211.63275 -340.2675 lineto
+211.63275 -343.872 lineto
+210.60675 -343.872 lineto
+210.60675 -336.312 lineto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -313.632 moveto
+37.152 -313.632 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+28.35 -311.931 moveto
+27.828 -311.931 27.43425 -312.18976 27.16875 -312.70724 curveto
+26.90325 -313.22473 26.7705 -314.0055 26.7705 -315.0495 curveto
+26.7705 -316.0845 26.90325 -316.86075 27.16875 -317.37823 curveto
+27.43425 -317.89575 27.828 -318.1545 28.35 -318.1545 curveto
+28.881 -318.1545 29.27925 -317.89575 29.54475 -317.37823 curveto
+29.810251 -316.86075 29.943 -316.0845 29.943 -315.0495 curveto
+29.943 -314.0055 29.810251 -313.22473 29.54475 -312.70724 curveto
+29.27925 -312.18976 28.881 -311.931 28.35 -311.931 curveto
+closepath
+28.35 -311.121 moveto
+29.196 -311.121 29.844 -311.45624 30.294 -312.12674 curveto
+30.744 -312.79724 30.969 -313.7715 30.969 -315.0495 curveto
+30.969 -316.3185 30.744 -317.28824 30.294 -317.95874 curveto
+29.844 -318.62924 29.196 -318.9645 28.35 -318.9645 curveto
+27.504 -318.9645 26.85825 -318.62924 26.41275 -317.95874 curveto
+25.967249 -317.28824 25.7445 -316.3185 25.7445 -315.0495 curveto
+25.7445 -313.7715 25.967249 -312.79724 26.41275 -312.12674 curveto
+26.85825 -311.45624 27.504 -311.121 28.35 -311.121 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -253.152 moveto
+37.152 -253.152 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+27.0405 -257.472 moveto
+30.618 -257.472 lineto
+30.618 -258.336 lineto
+25.812 -258.336 lineto
+25.812 -257.472 lineto
+26.199 -257.076 26.72775 -256.53824 27.39825 -255.85875 curveto
+28.06875 -255.17924 28.4895 -254.7405 28.6605 -254.5425 curveto
+28.9935 -254.1825 29.22525 -253.87425 29.35575 -253.61775 curveto
+29.48625 -253.36125 29.5515 -253.1115 29.5515 -252.8685 curveto
+29.5515 -252.4635 29.40975 -252.135 29.12625 -251.883 curveto
+28.84275 -251.631 28.476 -251.505 28.026 -251.505 curveto
+27.702 -251.505 27.362251 -251.559 27.00675 -251.667 curveto
+26.651249 -251.775 26.271 -251.946 25.866 -252.18 curveto
+25.866 -251.1405 lineto
+26.279999 -250.9785 26.66475 -250.85475 27.02025 -250.76926 curveto
+27.37575 -250.68376 27.702 -250.641 27.999 -250.641 curveto
+28.782 -250.641 29.4075 -250.83676 29.8755 -251.22826 curveto
+30.3435 -251.61975 30.5775 -252.144 30.5775 -252.801 curveto
+30.5775 -253.107 30.519 -253.39949 30.402 -253.6785 curveto
+30.285 -253.9575 30.0735 -254.286 29.7675 -254.664 curveto
+29.6775 -254.763 29.4075 -255.0465 28.9575 -255.5145 curveto
+28.5075 -255.9825 27.8685 -256.63498 27.0405 -257.472 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -192.672 moveto
+37.152 -192.672 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+28.971 -191.187 moveto
+26.3925 -195.2235 lineto
+28.971 -195.2235 lineto
+28.971 -191.187 lineto
+closepath
+28.701 -190.296 moveto
+29.997 -190.296 lineto
+29.997 -195.2235 lineto
+31.077 -195.2235 lineto
+31.077 -196.074 lineto
+29.997 -196.074 lineto
+29.997 -197.856 lineto
+28.971 -197.856 lineto
+28.971 -196.074 lineto
+25.569 -196.074 lineto
+25.569 -195.0885 lineto
+28.701 -190.296 lineto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -132.192 moveto
+37.152 -132.192 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+28.485 -133.191 moveto
+28.026 -133.191 27.661499 -133.3485 27.3915 -133.6635 curveto
+27.1215 -133.9785 26.9865 -134.406 26.9865 -134.946 curveto
+26.9865 -135.495 27.1215 -135.927 27.3915 -136.242 curveto
+27.661499 -136.55699 28.026 -136.7145 28.485 -136.7145 curveto
+28.944 -136.7145 29.30625 -136.55699 29.57175 -136.242 curveto
+29.83725 -135.927 29.97 -135.495 29.97 -134.946 curveto
+29.97 -134.406 29.83725 -133.9785 29.57175 -133.6635 curveto
+29.30625 -133.3485 28.944 -133.191 28.485 -133.191 curveto
+closepath
+30.51 -129.978 moveto
+30.51 -130.9095 lineto
+30.249 -130.7925 29.987999 -130.7025 29.727 -130.6395 curveto
+29.466 -130.57649 29.209501 -130.545 28.9575 -130.545 curveto
+28.2825 -130.545 27.76725 -130.77225 27.41175 -131.22675 curveto
+27.05625 -131.68124 26.8515 -132.3675 26.7975 -133.2855 curveto
+26.9955 -132.9975 27.245249 -132.77475 27.54675 -132.61725 curveto
+27.84825 -132.45975 28.179 -132.381 28.539 -132.381 curveto
+29.295 -132.381 29.8935 -132.6105 30.3345 -133.0695 curveto
+30.7755 -133.5285 30.996 -134.15399 30.996 -134.946 curveto
+30.996 -135.729 30.7665 -136.35449 30.3075 -136.8225 curveto
+29.8485 -137.2905 29.241 -137.5245 28.485 -137.5245 curveto
+27.603 -137.5245 26.9325 -137.18925 26.4735 -136.51875 curveto
+26.0145 -135.84825 25.785 -134.8785 25.785 -133.6095 curveto
+25.785 -132.41249 26.0685 -131.4585 26.6355 -130.7475 curveto
+27.2025 -130.0365 27.963 -129.681 28.917 -129.681 curveto
+29.169 -129.681 29.4255 -129.70575 29.6865 -129.75525 curveto
+29.9475 -129.80475 30.222 -129.879 30.51 -129.978 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -71.712 moveto
+37.152 -71.712 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+28.35 -73.305 moveto
+27.864 -73.305 27.4815 -73.4355 27.2025 -73.6965 curveto
+26.9235 -73.9575 26.784 -74.312996 26.784 -74.763 curveto
+26.784 -75.222 26.9235 -75.582 27.2025 -75.843 curveto
+27.4815 -76.104 27.864 -76.2345 28.35 -76.2345 curveto
+28.836 -76.2345 29.2185 -76.104 29.4975 -75.843 curveto
+29.7765 -75.582 29.916 -75.222 29.916 -74.763 curveto
+29.916 -74.312996 29.77875 -73.9575 29.50425 -73.6965 curveto
+29.22975 -73.4355 28.845001 -73.305 28.35 -73.305 curveto
+closepath
+27.324 -72.873 moveto
+26.892 -72.765 26.55225 -72.56025 26.30475 -72.25875 curveto
+26.057251 -71.95725 25.9335 -71.5905 25.9335 -71.1585 curveto
+25.9335 -70.5555 26.1495 -70.0785 26.5815 -69.7275 curveto
+27.0135 -69.376495 27.603 -69.201 28.35 -69.201 curveto
+29.105999 -69.201 29.69775 -69.376495 30.12525 -69.7275 curveto
+30.55275 -70.0785 30.7665 -70.5555 30.7665 -71.1585 curveto
+30.7665 -71.5905 30.645 -71.95725 30.402 -72.25875 curveto
+30.159 -72.56025 29.817 -72.765 29.376 -72.873 curveto
+29.871 -72.99 30.25575 -73.215 30.53025 -73.548 curveto
+30.80475 -73.881 30.942 -74.286 30.942 -74.763 curveto
+30.942 -75.501 30.71925 -76.06575 30.27375 -76.45725 curveto
+29.828249 -76.848755 29.187 -77.0445 28.35 -77.0445 curveto
+27.522 -77.0445 26.883 -76.848755 26.433 -76.45725 curveto
+25.983 -76.06575 25.758 -75.501 25.758 -74.763 curveto
+25.758 -74.286 25.8975 -73.881 26.1765 -73.548 curveto
+26.4555 -73.215 26.838 -72.99 27.324 -72.873 curveto
+closepath
+26.9595 -71.253 moveto
+26.9595 -71.649 27.081 -71.955 27.324 -72.171 curveto
+27.567 -72.387 27.909 -72.495 28.35 -72.495 curveto
+28.791 -72.495 29.13525 -72.387 29.38275 -72.171 curveto
+29.630249 -71.955 29.754 -71.649 29.754 -71.253 curveto
+29.754 -70.866 29.630249 -70.56225 29.38275 -70.34175 curveto
+29.13525 -70.121254 28.791 -70.011 28.35 -70.011 curveto
+27.909 -70.011 27.567 -70.121254 27.324 -70.34175 curveto
+27.081 -70.56225 26.9595 -70.866 26.9595 -71.253 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+33.696 -11.232 moveto
+37.152 -11.232 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+19.4265 -15.552 moveto
+21.1005 -15.552 lineto
+21.1005 -9.7875 lineto
+19.278 -10.152 lineto
+19.278 -9.2205 lineto
+21.087 -8.856 lineto
+22.113 -8.856 lineto
+22.113 -15.552 lineto
+23.787 -15.552 lineto
+23.787 -16.416 lineto
+19.4265 -16.416 lineto
+19.4265 -15.552 lineto
+closepath
+28.034437 -9.531 moveto
+27.512438 -9.531 27.118689 -9.78975 26.853188 -10.30725 curveto
+26.587687 -10.82475 26.454937 -11.6055 26.454937 -12.6495 curveto
+26.454937 -13.6845 26.587687 -14.46075 26.853188 -14.97825 curveto
+27.118689 -15.49575 27.512438 -15.7545 28.034437 -15.7545 curveto
+28.565437 -15.7545 28.963688 -15.49575 29.229187 -14.97825 curveto
+29.494688 -14.46075 29.627438 -13.6845 29.627438 -12.6495 curveto
+29.627438 -11.6055 29.494688 -10.82475 29.229187 -10.30725 curveto
+28.963688 -9.78975 28.565437 -9.531 28.034437 -9.531 curveto
+closepath
+28.034437 -8.721 moveto
+28.880438 -8.721 29.528439 -9.05625 29.978437 -9.72675 curveto
+30.428436 -10.39725 30.653437 -11.3715 30.653437 -12.6495 curveto
+30.653437 -13.9185 30.428436 -14.88825 29.978437 -15.55875 curveto
+29.528439 -16.22925 28.880438 -16.5645 28.034437 -16.5645 curveto
+27.188438 -16.5645 26.542688 -16.22925 26.097187 -15.55875 curveto
+25.651688 -14.88825 25.428938 -13.9185 25.428938 -12.6495 curveto
+25.428938 -11.3715 25.651688 -10.39725 26.097187 -9.72675 curveto
+26.542688 -9.05625 27.188438 -8.721 28.034437 -8.721 curveto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -305.856 moveto
+37.152 -305.856 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -298.08 moveto
+37.152 -298.08 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -290.304 moveto
+37.152 -290.304 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -283.392 moveto
+37.152 -283.392 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -275.616 moveto
+37.152 -275.616 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -267.84 moveto
+37.152 -267.84 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -260.064 moveto
+37.152 -260.064 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -245.376 moveto
+37.152 -245.376 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -237.6 moveto
+37.152 -237.6 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -229.824 moveto
+37.152 -229.824 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -222.912 moveto
+37.152 -222.912 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -215.136 moveto
+37.152 -215.136 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -207.36 moveto
+37.152 -207.36 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -199.584 moveto
+37.152 -199.584 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -184.896 moveto
+37.152 -184.896 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -177.12 moveto
+37.152 -177.12 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -169.344 moveto
+37.152 -169.344 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -162.432 moveto
+37.152 -162.432 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -154.656 moveto
+37.152 -154.656 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -146.88 moveto
+37.152 -146.88 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -139.104 moveto
+37.152 -139.104 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -124.416 moveto
+37.152 -124.416 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -116.64 moveto
+37.152 -116.64 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -108.864 moveto
+37.152 -108.864 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -101.952 moveto
+37.152 -101.952 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -94.176 moveto
+37.152 -94.176 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -86.4 moveto
+37.152 -86.4 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -78.624 moveto
+37.152 -78.624 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -63.936 moveto
+37.152 -63.936 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -56.16 moveto
+37.152 -56.16 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -48.384 moveto
+37.152 -48.384 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -41.472 moveto
+37.152 -41.472 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -33.696 moveto
+37.152 -33.696 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -25.92 moveto
+37.152 -25.92 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -18.144 moveto
+37.152 -18.144 lineto
+stroke
+newpath
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+35.424 -5.184 moveto
+374.976 -5.184 lineto
+374.976 -313.632 lineto
+35.424 -313.632 lineto
+35.424 -5.184 lineto
+closepath
+stroke
+newpath
+0.0 0.0 0.0 setrgbcolor
+1.0 1.0 1.0 setrgbcolor
+newpath
+383.616 -5.184 moveto
+431.136 -5.184 lineto
+431.136 -24.192 lineto
+383.616 -24.192 lineto
+383.616 -5.184 lineto
+closepath
+fill
+newpath
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.0 setrgbcolor
+newpath
+383.616 -5.184 moveto
+431.136 -5.184 lineto
+431.136 -24.192 lineto
+383.616 -24.192 lineto
+383.616 -5.184 lineto
+closepath
+stroke
+newpath
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+newpath
+390.528 -19.872 moveto
+390.528 -9.504 lineto
+394.848 -9.504 lineto
+394.848 -19.872 lineto
+stroke
+newpath
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+gsave
+newpath
+387.072 -9.504 moveto
+406.08 -9.504 lineto
+406.08 -19.008 lineto
+387.072 -19.008 lineto
+387.072 -9.504 lineto
+closepath
+clip
+newpath
+0.0 0.0 0.0 setrgbcolor
+2.0 setlinewidth
+10.0 setmiterlimit
+1 setlinejoin
+1 setlinecap
+[ ] 0 setdash
+0.0 0.0 0.9411765 setrgbcolor
+newpath
+390.528 -20.736 moveto
+391.392 -17.28 lineto
+392.256 -15.552 lineto
+393.12 -13.824 lineto
+393.984 -12.96 lineto
+394.848 -12.96 lineto
+395.712 -14.688 lineto
+396.576 -16.416 lineto
+397.44 -18.144 lineto
+398.304 -20.736 lineto
+stroke
+newpath
+0.0 0.0 0.9411765 setrgbcolor
+newpath
+390.528 -20.736 moveto
+391.392 -17.28 lineto
+392.256 -15.552 lineto
+393.12 -13.824 lineto
+393.984 -12.96 lineto
+394.848 -12.96 lineto
+395.712 -14.688 lineto
+396.576 -16.416 lineto
+397.44 -18.144 lineto
+398.304 -20.736 lineto
+closepath
+fill
+newpath
+grestore
+0.0 0.0 0.0 setrgbcolor
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+/Dialog.plain findfont 12 scalefont setfont
+newpath
+403.9065 -20.736 moveto
+405.5805 -20.736 lineto
+405.5805 -14.9715 lineto
+403.758 -15.336 lineto
+403.758 -14.4045 lineto
+405.567 -14.04 lineto
+406.593 -14.04 lineto
+406.593 -20.736 lineto
+408.267 -20.736 lineto
+408.267 -21.6 lineto
+403.9065 -21.6 lineto
+403.9065 -20.736 lineto
+closepath
+410.43542 -20.3175 moveto
+411.50192 -20.3175 lineto
+411.50192 -21.6 lineto
+410.43542 -21.6 lineto
+410.43542 -20.3175 lineto
+closepath
+410.43542 -16.2405 moveto
+411.50192 -16.2405 lineto
+411.50192 -17.523 lineto
+410.43542 -17.523 lineto
+410.43542 -16.2405 lineto
+closepath
+419.55975 -15.0525 moveto
+418.16925 -18.8055 lineto
+420.95026 -18.8055 lineto
+419.55975 -15.0525 lineto
+closepath
+418.97925 -14.04 moveto
+420.14026 -14.04 lineto
+423.01575 -21.6 lineto
+421.94925 -21.6 lineto
+421.26074 -19.656 lineto
+417.85876 -19.656 lineto
+417.17026 -21.6 lineto
+416.09024 -21.6 lineto
+418.97925 -14.04 lineto
+closepath
+424.07382 -13.716 moveto
+425.0053 -13.716 lineto
+425.0053 -21.6 lineto
+424.07382 -21.6 lineto
+424.07382 -13.716 lineto
+closepath
+426.95438 -13.716 moveto
+427.88586 -13.716 lineto
+427.88586 -21.6 lineto
+426.95438 -21.6 lineto
+426.95438 -13.716 lineto
+closepath
+fill
+newpath
+/Dialog.plain findfont 12 scalefont setfont
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+0.0 0.0 0.0 setrgbcolor
+1.0 setlinewidth
+10.0 setmiterlimit
+0 setlinejoin
+2 setlinecap
+[ ] 0 setdash
+/Dialog.plain findfont 12 scalefont setfont
+grestore
+showpage
+
+%%EOF
